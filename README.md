@@ -1,4 +1,4 @@
-# Non-latin word classifer ~
+# Non-latin word classifer #
 
 Objective: Given a cyrillic sentence identify which language the sentence belongs to.
 
